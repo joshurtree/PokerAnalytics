@@ -1,0 +1,17 @@
+﻿#Game No : 409714750
+***** 888poker Hand History for Game 409714750 *****
+25 $/50 $ Blinds Pot Limit Omaha - *** 30 04 2015 09:13:22
+Table Coruna 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: FFSim2rich ( 3Â 023,50 $ )
+Seat 4: myhometown ( 15Â 552,50 $ )
+Seat 7: SolidManiac ( 4Â 925 $ )
+Seat 9: 7Lucky7Guy7 ( 7Â 167 $ )
+myhometown posts small blind [25 $]
+SolidManiac folds
+7Lucky7Guy7 folds
+FFSim2rich folds
+** Summary **
+myhometown did not show his hand
+myhometown collected [ 25 $ ]

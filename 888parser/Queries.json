@@ -1,0 +1,266 @@
+﻿  [
+    {
+      "Name": "handsPlayed",
+      "Page": "overview",
+      "Group": "general",
+      "Title": "Hands played",
+      "Description": "Total number of hands played",
+      "DefaultValue": "0"
+    },
+    {
+      "Name": "profit",
+      "Page": "overview",
+      "Group": "general",
+      "Title": "Total profit",
+      "Description": "Total profit from all cash games and tournaments",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "cashHands",
+      "Page": "overview",
+      "Group": "cashGames",
+      "Title": "Cash hands played",
+      "Description": "Hands played in cash games"
+    },
+    {
+      "Name": "cashWinnings",
+      "Page": "overview",
+      "Group": "cashGames",
+      "Title": "Winnings",
+      "Description": "Winnings from cash games",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "cashLosses",
+      "Page": "overview",
+      "Group": "cashGames",
+      "Title": "Losses",
+      "Description": "Losses in cash games",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "tournamentsPlayed",
+      "Page": "overview",
+      "Group": "tournaments",
+      "Title": "Tournaments played",
+      "Description": "Number of tournaments taken part in",
+      "DefaultValue": "0"
+    },
+    {
+      "Name": "tournamentHands",
+      "Page": "overview",
+      "Group": "tournaments",
+      "Title": "Hands played",
+      "Description": "Number of hands played in tournaments",
+      "DefaultValue": "0"
+    },
+    {
+      "Name": "tournamentWinnings",
+      "Page": "overview",
+      "Group": "tournaments",
+      "Title": "Winnings",
+      "Description": "Total winnings from tournaments",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "freerollWinnings",
+      "Page": "overview",
+      "Group": "tournaments",
+      "Title": "Freeroll winnings",
+      "Description": "Winnings from freeroll tournaments",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "tournamentCosts",
+      "Page": "overview",
+      "Group": "tournaments",
+      "Title": "Buyin costs",
+      "Description": "Total cost of buyins, rebuys and addons in tournaments",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "sitAndGosPlayed",
+      "Page": "overview",
+      "Group": "sitAndGos",
+      "Title": "Sit and Gos played",
+      "Description": "Number of Sit and Gos taken part in",
+      "DefaultValue": "0"
+    },
+    {
+      "Name": "sitAndGoHands",
+      "Page": "overview",
+      "Group": "sitAndGos",
+      "Title": "Sit and Go hands",
+      "Description": "Number of hands played in Sit and Gos",
+      "DefaultValue": "0"
+    },
+    {
+      "Name": "sitAndGoWinnings",
+      "Page": "overview",
+      "Group": "sitAndGos",
+      "Title": "Winnings",
+      "Description": "Amount of money won in Sit and Gos",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "sitAndGoCosts",
+      "Page": "overview",
+      "Group": "sitAndGos",
+      "Title": "Buyins",
+      "Description": "Cost of Sit and Go buyins",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "potsWonPreflop",
+      "Page": "statistics",
+      "Group": "preflop",
+      "Title": "Pots won Preflop",
+      "Description": "Percentage of pots that were won Preflop",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "potsWonFlop",
+      "Page": "statistics",
+      "Group": "flop",
+      "Title": "Pots won at flop",
+      "Description": "Percentage of pots won at the flop",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "potsWonTurn",
+      "Page": "statistics",
+      "Group": "turn",
+      "Title": "Pots won at turn",
+      "Description": "Percentage of pots won at the turn",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "potsWonRiver",
+      "Page": "statistics",
+      "Group": "river",
+      "Title": "Pots won at river",
+      "Description": "Percentage of pots won at the river",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "potsWonShowdown",
+      "Page": "statistics",
+      "Group": "showdown",
+      "Title": "Pots won at showdown",
+      "Description": "Percentage of pots won at the showdown",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerReachedPreflop",
+      "Page": "statistics",
+      "Group": "preflop",
+      "Title": "Player folded or won Preflop",
+      "Description": "Percentage of pots where the player folded or won preflop",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerReachedFlop",
+      "Page": "statistics",
+      "Group": "flop",
+      "Title": "Player reached flop",
+      "Description": "Percentage of pots the player contested until the flop",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerReachedTurn",
+      "Page": "statistics",
+      "Group": "turn",
+      "Title": "Player reached turn",
+      "Description": "Percentage of pots the player contested until the turn",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerReachedRiver",
+      "Page": "statistics",
+      "Group": "river",
+      "Title": "Player reached river",
+      "Description": "Percentage of pots the player contested until the river",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerReachedShowdown",
+      "Page": "statistics",
+      "Group": "showdown",
+      "Title": "Player reached showdown",
+      "Description": "Percentage of pots the player contested until the showdown",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerWonPreflop",
+      "Page": "statistics",
+      "Group": "preflop",
+      "Title": "Player won pot pre flop",
+      "Description": "Percentage of pots that the player won Preflop",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerWonFlop",
+      "Page": "statistics",
+      "Group": "flop",
+      "Title": "Player won pot at flop",
+      "Description": "Percentage of pots that the player won at the flop",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerWonTurn",
+      "Page": "statistics",
+      "Group": "turn",
+      "Title": "Player won pot at turn",
+      "Description": "Percentage of pots that the player won at the turn",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerWonRiver",
+      "Page": "statistics",
+      "Group": "river",
+      "Title": "Player won pot at river",
+      "Description": "Percentage of pots that the player won at the river",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "playerWonShowdown",
+      "Page": "statistics",
+      "Group": "showdown",
+      "Title": "Player won pot at showdown",
+      "Description": "Percentage of pots that the player won at the showdown",
+      "DefaultValue": "0%"
+    },
+    {
+      "Name": "aveAmountCommittedPreflop",
+      "Page": "statistics",
+      "Group": "preflop",
+      "Title": "Average amount committed Preflop",
+      "Description": "Average amount added to the pot preflop",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "aveAmountCommittedFlop",
+      "Page": "statistics",
+      "Group": "flop",
+      "Title": "Average amount committed at flop",
+      "Description": "Average amount added to the pot at the flop",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "aveAmountCommittedTurn",
+      "Page": "statistics",
+      "Group": "turn",
+      "Title": "Average amount committed at turn",
+      "Description": "Average amount added to the pot at the river",
+      "DefaultValue": "$0"
+    },
+    {
+      "Name": "aveAmountCommittedRiver",
+      "Page": "statistics",
+      "Group": "river",
+      "Title": "Average amount committed at river",
+      "Description": "Average amount added to the pot at the river",
+      "DefaultValue": "$0"
+    }
+  ]
+

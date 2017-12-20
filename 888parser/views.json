@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Name": "allhands",
+    "Title": "All Hands",
+    "Filter": [ ]
+  },
+  {
+    "Name": "cashgames",
+    "Title": "Cash games",
+    "Filter": [ { "$match": { "$GameDescription.PokerFormat": 0 } } ]
+  },
+  {
+    "Name": "sitandgos",
+    "Title": "Sit and Gos",
+    "Filter": [ { "$match": { "$GameDescription.PokerFormat": 1 } } ]
+  },
+  {
+    "Name": "tournaments",
+    "Title": "Tournaments",
+    "Filter": [ { "$match": { "$GameDescription.PokerFormat": 2 } } ]
+  }
+]
